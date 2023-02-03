@@ -45,7 +45,7 @@ plt.show()
 
 ```
 ## Output
-![uni 1](https://user-images.githubusercontent.com/118679883/214287691-6afe3aed-0c77-454d-aaa2-ace2302d6bd7.png)
+
 ![uni 2](https://user-images.githubusercontent.com/118679883/214287764-2488608b-a553-42cc-b356-48a4ebcbda60.png)
 ![uni 3](https://user-images.githubusercontent.com/118679883/214287833-9ffd32a5-595b-4697-b427-f89c090319b3.png)
 
